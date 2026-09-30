@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Canvas Arcade",
+  "description": "A classic Flappy Bird arcade game rendered on HTML5 Canvas with keyboard controls, score counter, start screen, game over screen, synthesized Web Audio sound effects, and standalone HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
